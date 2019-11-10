@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "spartan-context-258313",
+  "private_key_id": "1aa63cb326c2d7ddbf75b44ac285b7ab9b4879e6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDkMxOdIpXPb1HL\nX4WKrAJhJ5QD//0F9NAv3hkC77YY9rQ2S+gyzUSp6r2DvKbWZfbYmHqFv0KPRGP+\nHDti0mWnwSHVWd8Xz5WAQ/3zaAQ9ejKosIfS256BcdkRrEbDLyHzCYYafveQyjZG\nzOzPcF4oinpMEIqD0IeIePDA8rJD9VH80JP+Tje67kgLUmzujAOmGRLN6KgRfV+s\nkUl31reN20PrRO0V0uGIhcXTq/ROUofaOxyrVZ2Si9wVrWC7bJlt9Rjn3WLXgaLr\n5mBz6TVKfVFt2jWlwa8pXmky9jCOiy8CxXv92w4sttpiNaGR9SsaBCRJkODlJhiI\nqTKwwb0rAgMBAAECggEAMQM3ZzySaKdELiYqDIq9SBi0FdfZhHn8bQuK27KYrevu\n8OqEyMSFxukAI1dVjh8AUa0OQ8O8jADoaR+vMZ527vzwQ162J+sR9SalWK4ymvGw\nB8NCqOs6tBq7wKv71tg8tnKJNw+mJJcJ6VMCWduMnbCAa+3xkjYrpggzzX1TBH04\ndeEKaF1NkXGcqbZZakxfYaFTK9Qymn6M0noiD4RjajHzJKv00sFPkyyDx4DH+it4\nEKgCQv3sr2Zo3O66DjTY0E7FbAN8oYInJ5d/oioEoLZuqcSG9Yei8ELncNGHSkno\nvBv+BQLEdC0lkXkUzN0qchJ/tAe1FnCtUsWIikVpQQKBgQD0PAVoGQMXN7bwzsYm\n5794CdfpIDLawOFysY+IcesjrJzrkshYMWxbGwwZg7fiXBS0uyqjXil17bdifRgR\n+jjnQgpLx+0aukDhPLAtJkXn9LbrgCPPau8qkxPObnq1GZspoSssEQYnaYmvHCHh\n1tCdE16Tom0W8eLzBk34LRucIwKBgQDvMU6xzJB+TrUCydeoAZn0efo4D8kudQjq\nH+i4C4zOd7v02f6OE8sX14pHVn2SuqwR5omxC2erJea63OaogjjhAA7HsNYCCjcR\nrOiFCq4EnDZLvFTUxOxoXNwbGZRuzU301K1CvVAcGxl+0EAC140ty1cJqNLfcc/F\nyG70rgaHWQKBgDjA3czDyykRBEzO79LIlYCSYP7GQar9mSXqxtzBBBAFI23GbRG5\nYmGFVnlzVz6dgR5CQ/U0g1PpCm0zfm1nBOQQP44+hgVo9HyiepnzQ9lTz1HINAoV\n4j+1b6vPlmoQ6jJxRjP2PMTZzGnJksIFBfMKNjb+TnU/fipU87dQ3BKbAoGAFvme\nfHeQvYEj4+OtYkbdGd2Jik8B3QOC2rI78UmyubZIiIlT6SO/k0ex0Y5eO3TQyFtj\niGz3BTp7wiEryq3PdtVBli7HL6T5iyoXn4faFTlIAdhSManEp3Wb8sJvPoFb5pNz\nHQEAK+LyfPrV2zAHMInij1v2/V16Pp41Ai2hFOkCgYA9SjRngjAvRO8FxKx87KU4\n3LZ2CPSE2xOVAacatkqGhTocx+Qb9OPxeL/2cB9fThs+aescl+YSf6ZhiVnjLZbg\nELEq4kaF3WT96YNYwMX0JNh/TvZtA+OCiOe1E6g0OVTr7V4pG5Iu2oteWxQjtYMY\nxc8ZRgZwX7Aj0uz8MShhkA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bucktracker@spartan-context-258313.iam.gserviceaccount.com",
+  "client_id": "116198646764595840303",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bucktracker%40spartan-context-258313.iam.gserviceaccount.com"
+}
